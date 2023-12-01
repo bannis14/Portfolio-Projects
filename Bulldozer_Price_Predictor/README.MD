@@ -1,9 +1,7 @@
 # Data Access
 
-## Data sets are viewable in CSV format by following the coresponding links below:
+## Data sets are viewable on kaggle via the link below:
 
-[trainandvalid](https://1drv.ms/u/s!Arza-6xrhMB0gSfY4KJbYVBCiO3E?e=pTsz3P)
+[Blue Book for Bulldozers](https://www.kaggle.com/competitions/bluebook-for-bulldozers/data)
 
-[test](https://1drv.ms/x/s!Arza-6xrhMB0gSY1tXnLbIL01eia?e=MUteRc)
-
-[test_predictions](https://1drv.ms/u/s!Arza-6xrhMB0gSVfsVkFb-KIRaYN?e=6rCdWg)
+> train.csv and valid.csv were combined beforehand into trainandvalid.csv
