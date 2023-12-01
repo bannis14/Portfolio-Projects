@@ -1,4 +1,4 @@
-#Bulldozer_Price_Predictor Project Description
+# Bulldozer_Price_Predictor Project Description
 
 This project focuses on creating a machine learning model that can predict future sales prices of bulldozers based on historical bulldozer sales
 
